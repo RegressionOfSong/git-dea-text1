@@ -3,6 +3,6 @@ package cn.jy.controller;
 public class TestController {
 
     public void hello() {
-        System.out.println("你好 Git diveii cvbnm j ");
+        System.out.println("你好 Git diveiicvbnm j ");
     }
 }
